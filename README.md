@@ -1,5 +1,5 @@
 # Lottie Like Animation
-this is a like button with a colorfull animation, very like the twitter like button on the feed.
+this is a like button with a colorfull animation, very much like the twitter like button on the feed.
 
 ![app screenshot](./app_screenshot.png)
 
